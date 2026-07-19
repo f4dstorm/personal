@@ -1,0 +1,18 @@
+body {
+    background-color: beige;
+}
+h2 {
+    color: blue;
+}
+#font {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /* use this the font id to add the font! */
+}
+.gray {
+    color: gray; /* and use this class (gray) to make the text color gray! */
+}
+div {
+    text-align: center; padding: 24px 54px 24px 54px;
+    background-color: aqua;
+    opacity: 0.4;
+}
+/* ¯\_(ツ)_/¯ */
